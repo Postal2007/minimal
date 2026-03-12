@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-
+Evan Post
+123456789 <- That's my student number :D
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
